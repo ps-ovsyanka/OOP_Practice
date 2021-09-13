@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laba_13.Goods">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgIAAAAAAAAQEgAAEAAQAAAAEAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Goods.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.352" />
+  </Class>
+  <Class Name="Laba_13.Toy">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAIAAAAAAUEgAAEAAAAAAAEAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Toy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba_13.Queue&lt;T&gt;">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAABACAAAAABAEAAAAAgQAAkAAEAAAAAAAAABAAAA=</HashCode>
+      <FileName>Queue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba_13.Point&lt;T&gt;">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABQAAIAAAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba_13.SortByName" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>SortByName.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Laba_13.CollectionHandlerEventArgs" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQEAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CollectionHandlerEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba_13.NewQueue&lt;T&gt;" Collapsed="true">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAAAAAAAIAAAAAAAUAAEAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>NewQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Laba_13.IExecutable">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IExecutable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
